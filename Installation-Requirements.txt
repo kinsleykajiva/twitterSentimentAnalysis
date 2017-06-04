@@ -1,0 +1,28 @@
+
+To use the system one will need to install Python 3.5 and the following system requirements:
+
+run the following command prompt commands to install packages:
+
+pip install PyQt4
+
+pip install tweepy
+
+
+pip install matplotlib
+
+pip install pandas
+
+pip install textblob
+
+pip install numpy
+
+pip install dateutil
+
+pip install -U scikit-fuzzy
+
+after these have install sucessfully then you can run the project.
+
+
+To run the project call sentiment.py or use command prompt by calling :python sentiment.py
+
+
